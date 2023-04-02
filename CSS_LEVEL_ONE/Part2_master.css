@@ -1,0 +1,22 @@
+body {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQJEO0Zdnn8lE6v-0FNCf10xEGGxEBZO56vA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    background-color: #05ade3;
+    border-color:blue ;
+    border-width: thick;
+    border-style: dotted;
+}
+
+p {
+    color: greenyellow;
+}
+
+span {
+    background: red;
+    color: purple;
+}
+

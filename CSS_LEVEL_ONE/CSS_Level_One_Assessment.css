@@ -1,0 +1,33 @@
+body {
+    background-color: #bfe1ec;
+}
+h1{
+    border: 1px solid black;
+}
+h2{
+    color: purple;
+}
+p{
+    background-color: #f5f385;
+}
+#item1 {
+    color: purple;
+    text-decoration: overline;
+}
+#item3 {
+    color: blue;
+}
+#bigtext {
+    border: 5px solid gray;
+    width: 800px;
+    height: 200px;
+}
+.input {
+    border: 2px solid;
+    border-color: #c03f0e;
+}
+.comment {
+    background-color: blue;
+    border: 4px dashed yellow;
+}
+

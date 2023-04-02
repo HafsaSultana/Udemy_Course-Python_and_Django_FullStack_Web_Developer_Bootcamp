@@ -1,0 +1,24 @@
+.firstDiv {
+    color: blue;
+}
+.secondDiv {
+    color: #e22b62;
+}
+
+#singledout {
+    color: green;
+    text-decoration: line-through;
+}
+
+h3+ul{
+    border: 4px purple dotted ;
+}
+
+li a {
+    color: #e22b62;
+}
+
+li a[href='https://www.djangoproject.com']{
+    color: royalblue;
+    border: 5px solid orange;
+}
