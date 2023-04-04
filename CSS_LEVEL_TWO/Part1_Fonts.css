@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Arial', sans-serif;
+}
+
+p{
+    font-family: monospace;
+}
+body{
+    font-size: 20px;
+}
+#two{
+    font-size: 1.0em;
+    font-weight: bold;
+    font-family: 'Fasthand', cursive;
+}
+p{
+    font-style: italic;
+    text-align: justify;
+    font-family: cursive;
+}
+h1{
+    text-align: center;
+}
+
+/*1em = 16px*/
+/*2em = 32 px*/

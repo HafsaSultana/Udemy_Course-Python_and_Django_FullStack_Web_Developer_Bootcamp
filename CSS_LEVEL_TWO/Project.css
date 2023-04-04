@@ -1,0 +1,28 @@
+h2{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+.art{
+    margin: auto;
+}
+td{
+    height: 300px;
+    width: 150px;
+    border: 6px solid white;
+}
+
+#one{
+    background-color: cornflowerblue;
+}
+#two{
+    background-color: #70C1B3;
+}
+#three{
+    background-color: #B2DBBF;
+}
+#four{
+    background-color: #F3FFBD;
+}#five{
+    background-color: #FF1654;
+}
+
